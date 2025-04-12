@@ -22,4 +22,4 @@ using SVM with naïve Bayes feature embedding**. We use CICIDS2017 and UNSW-NB15
 
 ## Rough Experimental Results
 
-We successfully ran the code and got the result. Moreover, we visualized the results, and compared our experimental results with the data in the original paper and the results are analyzed. The experimental results are generally consistent with the paper, and we will conduct experimental analysis.
+We successfully ran the code and got the result. Moreover, we visualized the results, and compared our experimental results with the data in the original paper and the results are analyzed. The experimental results are generally consistent with the paper.

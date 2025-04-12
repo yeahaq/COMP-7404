@@ -15,4 +15,8 @@ using SVM with naïve Bayes feature embedding**. We use CICIDS2017 and UNSW-NB15
 - **Description**: The UNSW-NB15 dataset is designed for network intrusion detection. It includes a variety of synthetic and real attack scenarios, making it a valuable resource for training and evaluating IDS models.
 
 ### 3. Breast Cancer Wisconsin and Pima Indians Diabetes Database
-- You can download just use the code in the ipynb file.
+- You can download just using the code in the ipynb file.
+
+## Rough Experimental Results
+
+We successfully ran the code and got the result. Moreover, we visualized the results, and compared our experimental results with the data in the original paper and the results are analyzed. The experimental results are generally consistent with the paper, and we will conduct experimental analysis.

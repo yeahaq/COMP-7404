@@ -4,6 +4,9 @@
 This project reproduce all the numerical results, figures, and other experiments of the paper **An effective intrusion detection approach
 using SVM with naïve Bayes feature embedding**. We use CICIDS2017 and UNSW-NB15 to test the performance of the proposed method and other types of data to test its generalization. The goal is to develop a robust model capable of identifying and preventing intrusion attempts in network environments.
 
+## Paper Link
+- **Link**: https://www.sciencedirect.com/science/article/abs/pii/S0167404820304314
+
 ## Datasets
 
 ### 1. CICIDS2017 Dataset

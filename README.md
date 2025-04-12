@@ -1,1 +1,2 @@
-# COMP-7404 An Effective Intrusion Detection Approach
+# COMP-7404 
+An Effective Intrusion Detection Approach
